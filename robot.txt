@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /goran/
+Disallow: /mipcomplus.rs/goran/

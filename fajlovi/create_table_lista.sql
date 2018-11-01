@@ -1,0 +1,12 @@
+CREATE TABLE lista (
+  id INT(11) AUTO_INCREMENT PRIMARY KEY,
+  br_leg VARCHAR(255) NOT NULL,
+  ime VARCHAR(255) NOT NULL,
+  prezime VARCHAR(255) NOT NULL,
+  jmbg INT(13) NOT NULL,
+  state VARCHAR(255) NOT NULL,
+  rang INT(3) NOT NULL,
+  datum_rodjenja VARCHAR(255) NOT NULL,
+  lista INT(3) NOT NULL,
+  description TEXT NOT NULL
+);
